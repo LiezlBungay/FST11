@@ -2,7 +2,7 @@ GUI - Graphical User Interface: Icons/Buttons/Menus
 CLI - Command-line Interface: Text-based, interacting and managing of files/folders
 
 - Make directory
-mdir "directory name"
+mkdir "directory name"
 
 - remove directory
 rmdir "directory name" 
