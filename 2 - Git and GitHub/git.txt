@@ -34,3 +34,6 @@ git log
 
 -Show commit history (summarized)
 git log --online
+
+Clear terminal commads
+clear
